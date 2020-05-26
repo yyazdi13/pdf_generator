@@ -5,12 +5,12 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 ![pdfgif.ig](https://media.giphy.com/media/UralBdiC8bhIMYT2XL/giphy.gif)
 
 # framework
--html
--node
--javascript
--JSON
--inquirer
--axios
--html-pdf
+* html
+* node
+* javascript
+* JSON
+* inquirer
+* axios
+* html-pdf
 
 
